@@ -78,7 +78,3 @@ START:
         INT 21H
 CODE ENDS
 END START
-                        
-
-                        
-                
